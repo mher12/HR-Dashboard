@@ -6,5 +6,5 @@ The second CSV file, DepartmentSampleDataCSV.CSV consisted of the department inf
 The project includes the following steps: data loading, data cleaning and preprocessing, filling/ reviewing for missing values, EDA (exploratory data analysis), analyzing demographics, and creating statistical measures such as Average and Sum of Annual Salary of Employees.   
 **Skills:** Data upload (CVS to Powerbi, establish relation between the two tables via Model Windows), data cleaning, data analysis, descriptive statistics, and data visualization.  
 **Technology:** PowerQuery, PowerBi  
-**Results:** Review and created dashboard on employee demographics.
+**Results:** Reviewed and created dashboard on employee demographics.
 
